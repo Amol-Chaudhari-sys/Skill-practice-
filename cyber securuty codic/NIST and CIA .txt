@@ -28,3 +28,8 @@ tols and attacks
 4.Duqu and Flame (Olimpis game US and israel )
 5. Darkseoul (Lazarous and North koria )
 6. wannacry (Lazarous and North koria )
+
+Types of attacks 
+    active attack 
+    passive attack 
+    
