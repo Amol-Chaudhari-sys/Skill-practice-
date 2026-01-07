@@ -32,4 +32,22 @@ tols and attacks
 Types of attacks 
     active attack 
     passive attack 
-    
+
+
+Security mechanish 
+1. specific scurity mechanish 
+cryptography 
+access control 
+digital signature 
+data intrigrity 
+authentication exchange 
+traffic padding 
+routing control 
+notarization 
+
+2.persavive security mechanish 
+trusted facility 
+security label 
+event dectection 
+security audit trial 
+security recovery 
