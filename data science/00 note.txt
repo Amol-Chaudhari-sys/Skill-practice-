@@ -1,0 +1,63 @@
+3.0
+features : input data through which the algorithm works 
+Label : output data predect by algorithm 
+4.0
+data sources :
+	from companies 
+	web scrspping 
+	uci ml repository 
+5.0
+	5.1 supervised learning 
+		features adn leabels are already present 
+		classification 
+		regression 
+		tagged data 
+	5.2 unsupervised learning
+		clusturing : grouping the data 
+		association : rule learning 
+		training not done 
+		complex mixed data
+	 
+	5.3 steps 
+		problem identification 
+		data collection 
+		model building 
+		feedback 
+6.0 sickit learn 
+
+7.0 training and testing
+
+8.0 simple regression 
+	dependent veriables  : labels 
+	indeendant veriables : features 
+
+
+	sse (sum of square error )
+	sum sqr (predect - actual )
+		small good 
+		large not good 
+	mean absulate error = sum mod (predected - actual)/n
+	mean square error  =sum sqr (predect - actual )/n
+9.0 multi regression 
+	f(x1 x2 x3)= wo+ w1x1 + w2x2
+
+
+10.0 
+	mean square error = sum (predect - actal )square/ len 
+11.0 
+
+12.0 loss function and gradient 
+drive the algorthm 
+	gradient decent algorithm 
+	x grade = x-LR dy/dx
+	lr learning rate
+13.0
+	sochastic data :data of 1 batch 
+	gradient data= data of full dataset batch 
+14.0
+
+15.0
+classifier 
+
+ 
+
