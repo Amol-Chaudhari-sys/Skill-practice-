@@ -1,0 +1,8 @@
+SOAP : simple object access protocol
+     xml 
+     expensive 
+     slow 
+     complicated 
+REST APIS :
+    representational state transfer
+    appplication programming interfaces  
